@@ -1,0 +1,18 @@
+---
+galaxy_info:
+  author: Andrew Rothstein
+  description: role to configure systemd inside a Docker container
+  company: BlackRock
+  license:
+    - MIT
+  min_ansible_version: 1.2
+  platforms:
+    - name: EL
+      versions:
+        - 7
+
+  categories:
+    - development
+
+dependencies: []
+  
